@@ -6,9 +6,9 @@ readme = "README.md"
 authors = ["Josh Bressers <josh@bres.net>"]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.13"
+python = ">=3.9,<3.14"
 pypubsub = "^4.0.3"
-meshtastic = "^2.5.0"
+meshtastic = "^2.5.11"
 peewee = "^3.17.6"
 
 [tool.poetry.scripts]
